@@ -1,0 +1,27 @@
+# logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+logs
+
+# dependencice
+node_modules/
+
+# out dir
+bin
+
+# DS_Store
+.DS_Store
+
+# zip
+*.zip
+
+#prettier
+.prettierignore
+.prettierrc
+
+#lock
+*.lock
+
+#env
+# .env.*

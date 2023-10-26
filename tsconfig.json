@@ -1,0 +1,10 @@
+{
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "module": "Commonjs",
+    "rootDir": "src",
+    "outDir": "bin",
+    "target": "ES2020"
+  }
+}
